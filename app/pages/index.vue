@@ -43,7 +43,7 @@
     </div>
   </section>
 </template>
-
+<meta name="google-site-verification" content="latoCWquzK-9v_Vtu34pnRMK26_EQCm-Tt0mmL9oQdc" />
 <script lang="ts">
 import { Component, Vue } from 'nuxt-property-decorator';
 import settings from '@/content/settings/general.json';
